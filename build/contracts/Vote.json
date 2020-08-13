@@ -4897,12 +4897,12 @@
         }
       },
       "links": {},
-      "address": "0x6e7A266826a66Df71059f15d91a09B096dC6beD3",
-      "transactionHash": "0x3883d206b5fc9b92942284ced3bc1e6e24fe9f4bb3c10313227c12fb51bddb20"
+      "address": "0x7A53036C6323762C86640d5A716baD70d26d0312",
+      "transactionHash": "0x0a61f22f420212a46b9b78e10ad4ee0c165b0c172a993ebe6fc214a4591e48b5"
     }
   },
   "schemaVersion": "3.2.3",
-  "updatedAt": "2020-08-10T12:36:35.226Z",
+  "updatedAt": "2020-08-12T12:52:00.329Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
